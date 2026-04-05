@@ -1,4 +1,4 @@
-/* eslint-disable react-hooks/rules-of-hooks */
+ 
 import { useRef, useState } from "react";
 
 export default function App() {
